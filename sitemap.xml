@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://slzhouhm.gitee.io/2022/01/07/hello-world/</loc>
+    <loc>https://slzhouhm.github.io/2022/01/07/hello-world/</loc>
     
     <lastmod>2022-01-07</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://slzhouhm.gitee.io/2022/01/07/%E6%96%B0%E5%A2%9E%E5%8A%A0/</loc>
+    <loc>https://slzhouhm.github.io/2022/01/07/%E6%96%B0%E5%A2%9E%E5%8A%A0/</loc>
     
     <lastmod>2022-01-07</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://slzhouhm.gitee.io/2022/01/07/%E7%BB%83%E4%B9%A0/</loc>
+    <loc>https://slzhouhm.github.io/2022/01/07/%E7%BB%83%E4%B9%A0/</loc>
     
     <lastmod>2022-01-07</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://slzhouhm.gitee.io/2022/01/07/%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3/SFTI001/</loc>
+    <loc>https://slzhouhm.github.io/2022/01/07/%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3/SFTI001/</loc>
     
     <lastmod>2022-01-07</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://slzhouhm.gitee.io/404.html</loc>
+    <loc>https://slzhouhm.github.io/404.html</loc>
     
     <lastmod>2022-01-07</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://slzhouhm.gitee.io/about/index.html</loc>
+    <loc>https://slzhouhm.github.io/about/index.html</loc>
     
     <lastmod>2022-01-07</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://slzhouhm.gitee.io/books/index.html</loc>
+    <loc>https://slzhouhm.github.io/books/index.html</loc>
     
     <lastmod>2022-01-07</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://slzhouhm.gitee.io/categories/index.html</loc>
+    <loc>https://slzhouhm.github.io/categories/index.html</loc>
     
     <lastmod>2022-01-07</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://slzhouhm.gitee.io/links/index.html</loc>
+    <loc>https://slzhouhm.github.io/links/index.html</loc>
     
     <lastmod>2022-01-07</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://slzhouhm.gitee.io/repository/index.html</loc>
+    <loc>https://slzhouhm.github.io/repository/index.html</loc>
     
     <lastmod>2022-01-07</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://slzhouhm.gitee.io/tags/index.html</loc>
+    <loc>https://slzhouhm.github.io/tags/index.html</loc>
     
     <lastmod>2022-01-07</lastmod>
     
@@ -102,7 +102,7 @@
   
 
   <url>
-    <loc>https://slzhouhm.gitee.io/</loc>
+    <loc>https://slzhouhm.github.io/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -110,21 +110,21 @@
 
   
   <url>
-    <loc>https://slzhouhm.gitee.io/tags/%E6%96%B0%E5%A2%9EBQ/</loc>
+    <loc>https://slzhouhm.github.io/tags/%E6%96%B0%E5%A2%9EBQ/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://slzhouhm.gitee.io/tags/l1/</loc>
+    <loc>https://slzhouhm.github.io/tags/l1/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://slzhouhm.gitee.io/tags/%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3-%E9%9D%A2%E8%AF%95/</loc>
+    <loc>https://slzhouhm.github.io/tags/%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3-%E9%9D%A2%E8%AF%95/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -133,21 +133,21 @@
 
   
   <url>
-    <loc>https://slzhouhm.gitee.io/categories/%E6%96%B0%E5%A2%9EFL/</loc>
+    <loc>https://slzhouhm.github.io/categories/%E6%96%B0%E5%A2%9EFL/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://slzhouhm.gitee.io/categories/test/</loc>
+    <loc>https://slzhouhm.github.io/categories/test/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://slzhouhm.gitee.io/categories/%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3/</loc>
+    <loc>https://slzhouhm.github.io/categories/%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3/</loc>
     <lastmod>2022-01-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
