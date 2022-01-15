@@ -175,7 +175,21 @@
   </url>
   
   <url>
+    <loc>https://slzhouhm.github.io/categories/python/</loc>
+    <lastmod>2022-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://slzhouhm.github.io/categories/A/a/</loc>
+    <lastmod>2022-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://slzhouhm.github.io/categories/python/sh/</loc>
     <lastmod>2022-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -190,27 +204,6 @@
   
   <url>
     <loc>https://slzhouhm.github.io/categories/A/a/B/b/</loc>
-    <lastmod>2022-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://slzhouhm.github.io/categories/python/</loc>
-    <lastmod>2022-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://slzhouhm.github.io/categories/python/sh/</loc>
-    <lastmod>2022-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://slzhouhm.github.io/categories/python/sh/linux/</loc>
     <lastmod>2022-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
