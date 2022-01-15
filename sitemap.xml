@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://slzhouhm.github.io/2022/01/15/%E7%BB%83%E4%B9%A0/</loc>
+    <loc>https://slzhouhm.github.io/2019/11/05/%E7%BB%83%E4%B9%A0/</loc>
     
     <lastmod>2022-01-15</lastmod>
     
@@ -30,6 +30,15 @@
   
   <url>
     <loc>https://slzhouhm.github.io/2022/01/15/%E7%AE%97%E6%B3%95%E9%A2%98%E8%A7%A3/SFTI001/</loc>
+    
+    <lastmod>2022-01-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://slzhouhm.github.io/2019/11/05/Python/sh%E5%BA%93/123/</loc>
     
     <lastmod>2022-01-15</lastmod>
     
@@ -126,7 +135,7 @@
   </url>
   
   <url>
-    <loc>https://slzhouhm.github.io/tags/l1/</loc>
+    <loc>https://slzhouhm.github.io/tags/hexo%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2022-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -147,14 +156,14 @@
   </url>
   
   <url>
-    <loc>https://slzhouhm.github.io/tags/sh/</loc>
+    <loc>https://slzhouhm.github.io/tags/linux/</loc>
     <lastmod>2022-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://slzhouhm.github.io/tags/linux/</loc>
+    <loc>https://slzhouhm.github.io/tags/sh/</loc>
     <lastmod>2022-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -170,7 +179,7 @@
   </url>
   
   <url>
-    <loc>https://slzhouhm.github.io/categories/test/</loc>
+    <loc>https://slzhouhm.github.io/categories/hexo/</loc>
     <lastmod>2022-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -184,7 +193,21 @@
   </url>
   
   <url>
+    <loc>https://slzhouhm.github.io/categories/Python-sh%E5%BA%93/</loc>
+    <lastmod>2022-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://slzhouhm.github.io/categories/python/</loc>
+    <lastmod>2022-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://slzhouhm.github.io/categories/Python-sh%E5%BA%93/linux/</loc>
     <lastmod>2022-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
